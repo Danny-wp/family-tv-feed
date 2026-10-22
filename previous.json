@@ -1,0 +1,12 @@
+{
+  "version": "c99f94b03006d26f",
+  "updatedAt": "2026-10-22T10:09:49.328736+00:00",
+  "playlistUrl": "versions/c99f94b03006d26fa1ee490d2cad7d6dece20dd1c13acf0e4f6c0b733d410c07.json",
+  "sha256": "c99f94b03006d26fa1ee490d2cad7d6dece20dd1c13acf0e4f6c0b733d410c07",
+  "channelCount": 341,
+  "probe": "Public candidates only; actual media validation is performed on the TV",
+  "schemaVersion": 1,
+  "catalogKind": "cloud-candidates",
+  "mediaValidated": false,
+  "validationNode": "tv-playback"
+}
